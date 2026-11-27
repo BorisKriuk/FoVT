@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👁️ FoVT — Simple Foveated Vision Transformers
+# FoVT — Simple Foveated Vision Transformers
 
 ### *When Does Looking Closer Pay Off? Simple Foveated ViTs for Fine-Grained Recognition*
 

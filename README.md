@@ -72,7 +72,7 @@ Fine-grained recognition **rewards resolution**, but a uniform 448-px ViT proces
 
 ```
                ┌─────────────────────────── Stage 1: GLANCE (224 px) ───────────────────────────┐
-  x (448×448) ─┤  bilinear ↓2 → 16×16 coarse tokens → ViT-S/14 (shared) → glance logits ℓg     │
+  x (448×448) ─┤  bilinear ↓2 → 16×16 coarse tokens → ViT-S/14 (shared) → glance logits ℓg      │
                │                                         └─► last-block CLS attention  a  (256) │
                └────────────────────────────────────────────────────────────────────────────────┘
                                                    │  Top-K cells (detached, no gradient)

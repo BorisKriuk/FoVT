@@ -53,7 +53,6 @@ The Hong Kong University of Science and Technology
 - [🖥️ Hardware](#️-hardware)
 - [⚡ Efficiency in Practice](#-efficiency-in-practice)
 - [🎯 When Does Looking Closer Pay Off?](#-when-does-looking-closer-pay-off)
-- [⚠️ Limitations](#️-limitations)
 - [📚 Citation](#-citation)
 
 ---

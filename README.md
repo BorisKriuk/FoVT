@@ -328,15 +328,6 @@ Fused attention kernels shrink the quadratic term that foveation removes, and th
 
 ---
 
-## ⚠️ Limitations
-
-- One backbone (ViT-S/14) and two seeds. Intervals capture test-set sampling, not full training variance.
-- The CF-ViT comparison uses a port of the official code onto our backbone and recipe.
-- Inference-time budget transfer is not free on every task: Aircraft peaks sharply at the training `K`.
-- MAC counts exclude patch embedding, selection, and gathering. Gated latency was not measured with batch compaction.
-
----
-
 ## 📚 Citation
 
 ```bibtex
